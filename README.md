@@ -1,5 +1,6 @@
 # Quadrotor UAV
-# author: Jackson Qin
+
+author: Jackson Qin
 
 This project is about Quadrotor-UAV based on ARM MCU.My graduation project is design a UAV that used PID contorl algorithms and electronic knowledge.I'm a electornic engineering stduent.
 
